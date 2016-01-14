@@ -6,6 +6,7 @@ public class HelloGitHub {
 		// TODO Auto-generated method stub
 		System.out.println("Hello GitHub");
 		System.out.println("Git Large File Storage");
+		System.out.println("Git Large File Storage (LFS)");
 	}
 
 }
